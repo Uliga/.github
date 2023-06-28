@@ -1,5 +1,3 @@
-# 우리가
-
 ![메인](https://github.com/Uliga/Uliga_Frontend/assets/79246447/27ae04c1-a81e-4108-90e9-9096022d1226)
 
 > **효율적인 지출 관리를 위한 공유 가계부 웹 애플리케이션, 우리의 가계부**
@@ -13,6 +11,9 @@
 > **우리가** : https://www.ouruliga.com/
 > <br/>
 > **API 문서 배포 링크** : [https://uliga.site/swagger-ui/index.html](https://uliga.site/swagger-ui/index.html)
+> <br/>
+> **스토리북 배포 링크** : https://647831b8f0964779f9711319-xjxnsnhdnh.chromatic.com/?path=/story/components-button--primary
+
 
 <br/>
 
