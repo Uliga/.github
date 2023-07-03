@@ -82,6 +82,11 @@
 <br/>
 
 
+## 시스템 아키텍처 **⚙️**
+![시스템 아키텍쳐](https://github.com/Uliga/.github/assets/79246447/b948b1b9-9f0a-44c5-9fe9-02d8c8bd93af)
+
+<br/>
+
 ## TEAM 우리가
 
 |                                      윤채현                                       |                                       함민혁                                        |                                      김동준                                       |
