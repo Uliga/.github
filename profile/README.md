@@ -10,7 +10,9 @@
 
 > **우리가** : https://www.ouruliga.com/
 > <br/>
-> **API 문서 배포 링크** : [https://uliga.site/swagger-ui/index.html](https://uliga.site/swagger-ui/index.html)
+> **Swagger API 문서 배포 링크** : [https://uliga.site/swagger-ui/index.html](https://uliga.site/swagger-ui/index.html)
+> <br/>
+> **Rest Docs API 문서 배포 링크** : [https://uliga.site/rest-docs](https://uliga.site/rest-docs)
 > <br/>
 > **스토리북 배포 링크** : https://647831b8f0964779f9711319-xjxnsnhdnh.chromatic.com/?path=/story/components-button--primary
 
