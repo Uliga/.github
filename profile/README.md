@@ -10,6 +10,8 @@
 
 > **우리가** : https://www.ouruliga.com/
 > <br/>
+> **우리가 데스크톱 앱 다운로드** : https://github.com/Uliga/Uliga_Frontend/releases/tag/%EC%9A%B0%EB%A6%AC%EA%B0%80v1.1.0
+> <br/>
 > **Swagger API 문서 배포 링크** : [https://uliga.site/swagger-ui/index.html](https://uliga.site/swagger-ui/index.html)
 > <br/>
 > **Rest Docs API 문서 배포 링크** : [https://uliga.site/rest-docs](https://uliga.site/rest-docs)
